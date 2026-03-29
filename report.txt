@@ -1,0 +1,17 @@
+ESP32 Sensor Interface PCB
+
+Designed by: Vikram Reddy
+Tool Used: KiCad 8.0
+
+Board Features:
+- ESP32 DevKit V1
+- DHT22 Temperature Sensor
+- BH1750 Light Sensor (I2C)
+- MQ-135 Air Quality Sensor
+- OLED Display (I2C)
+- Micro SD Card (SPI)
+- 3.3V Sensor Power Rail
+- Proper GND pour on Top & Bottom layers
+
+ERC: No errors
+DRC: No errors
